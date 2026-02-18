@@ -41,3 +41,36 @@ JavaScript has the primitive data types:
 ### JavaScript Numeric Separator
 1. Introduction to the JavaScript numeric separator
 
+### JavaScript boolean type
+1. Introduction to the JavaScript boolean type
+
+### JavaScript string
+1. Introduction to the JavaScript strings
+2. Escaping special characters (Windows line break: '\r\n', Unix line break: '\n', Tab: '\t', Backslash '\')
+3. Getting the length of the string
+4. Accessing characters
+5. Concatenating strings via + operator
+6. Converting values to string
+7. Comparing strings
+
+### JavaScript Objects
+1. Introduction to the JavaScript objects
+2. Accessing properties (The dot notation, Array-like notation)
+3. Modifying the value of a property
+4. Adding a new property to an object
+5. Deleting a property of an object
+6. Checking if a property exists
+
+### JavaScript Primitive vs. Reference Values
+1. Stack and heap memory
+2. Dynamic Properties
+3. Copying values
+
+### JavaScript Arrays
+1. Introduction to JavaScript arrays
+2. Creating JavaScript arrays
+3. Accessing JavaScript array elements
+4. Getting the array size
+5. Basic operations on arrays ( Appending an element to an array, Adding an element to the beginning of an array, Removing an element from the end of an array,Removing an element from the beginning of an array, Finding an index of an element in the array, Check if a value is an array)
+
+### A Quick Look at Octal and Binary Literals in ES6
