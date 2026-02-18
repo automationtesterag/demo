@@ -74,3 +74,42 @@ JavaScript has the primitive data types:
 5. Basic operations on arrays ( Appending an element to an array, Adding an element to the beginning of an array, Removing an element from the end of an array,Removing an element from the beginning of an array, Finding an index of an element in the array, Check if a value is an array)
 
 ### A Quick Look at Octal and Binary Literals in ES6
+
+# Section 3. Operators
+--------------------------
+### JavaScript Arithmetic Operators
+1. Introduction to the JavaScript Arithmetic Operators
+2. Addition operator (+)
+3. Subtraction operator (-)
+4. Multiplication operator (*)
+5. Divide operator (/)
+6. Using JavaScript arithmetic operators with objects
+
+### JavaScript Remainder Operator
+1. Introduction to the JavaScript remainder operator
+2. JavaScript remainder operator examples (Using the remainder operator with a positive dividend, Using the remainder operator with a negative dividend, Using the remainder operator with special values)
+3. Remainder vs Modulo operator
+
+### JavaScript Assignment Operators
+1. Introduction to JavaScript assignment operators
+2. Chaining JavaScript assignment operators
+
+### JavaScript Unary Operators
+1. Introduction to the JavaScript unary operators
+2. Unary plus
+3. Unary minus
+4. Increment operator (++)
+5. Decrement operator (–)
+
+### JavaScript Comparison Operators
+1. Introduction to JavaScript comparison operators
+2. Compare numbers, Compare strings, Compare a number with a value of another type, Compare an object with a non-object,Compare a Boolean with another value
+, Compare null and undefined, Compare NaN with other values.
+3. Strict equal (===) and not strict equal (!==)
+
+### JavaScript Logical Operators
+1. The Logical NOT operator (!)
+2. Double-negation (!!)
+3. The Logical AND operator (&&)
+4. The Logical OR operator (||)
+5. Logical operator precedence
