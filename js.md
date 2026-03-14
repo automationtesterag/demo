@@ -113,3 +113,105 @@ JavaScript has the primitive data types:
 3. The Logical AND operator (&&)
 4. The Logical OR operator (||)
 5. Logical operator precedence
+
+# Section 4. Control flow statements
+-------------------------------
+### if
+1. Javascript if
+2. Nested if statement
+
+### JavaScript if else
+1. Introduction to the JavaScript if else if statement
+
+### JavaScript if else if
+1. Introduction to the JavaScript if…else statement
+
+### JavaScript Ternary Operator
+1. Introduction to JavaScript ternary
+2. Using the JavaScript ternary operator to perform multiple statements
+3. Simplifying ternary operator example
+4. Using multiple JavaScript ternary operators example
+
+### JavaScript switch case
+1. Introduction to the JavaScript switch case statement
+2. JavaScript switch case examples
+
+### JavaScript while Loop
+1. Introduction to the JavaScript while loop statement
+2. JavaScript while loop examples
+3. Using while loop with an array
+
+### JavaScript do…while Loop
+1. Introduction to the JavaScript do…while statement
+2. JavaScript do while statement examples
+
+### JavaScript for Loop
+1. Introduction to the JavaScript for loop statement
+2. JavaScript for loop examples
+3. A simple JavaScript for loop example
+4. Using the JavaScript for loop without the initializer example
+5. Using the JavaScript for loop without the condition example
+6. Using the JavaScript for loop statement without any expression example
+7. Using the JavaScript for loop without the loop body example
+
+### JavaScript break
+1. The label statement
+2. Introduction to JavaScript break statement
+3. Using JavaScript break statement in a for loop
+4. Using the break statement to terminate a nested loop
+5. Using JavaScript break statement in a while loop
+6. Using JavaScript break statement in a do…while loop
+
+### JavaScript continue
+1. Introduction to the JavaScript continue statement
+2. Using the continue statement in a for loop
+3. Using the continue statement in a while loop
+4. Using the continue statement with a label example
+
+### JavaScript Comma Operator
+1. Introduction to the JavaScript comma operator
+
+# Section 5. Functions
+-------------------------------
+### Functions
+1. Introduction to JavaScript functions
+2. Declaring a function
+3. Calling a function
+4. Parameters vs. Arguments
+5. Returning a value
+6. The arguments object
+7. Function hoisting
+
+### JavaScript Functions are First-Class Citizens
+1. Storing functions in variables
+2. Passing a function to another function
+3. Returning functions from functions
+4. More JavaScript Functions are First-Class Citizens example
+
+### JavaScript Anonymous Functions
+1. Introduction to JavaScript anonymous functions
+2. Using anonymous functions as arguments
+3. Immediately invoked function execution
+4. Arrow functions
+
+### JavaScript Pass-By-Value
+1. JavaScript pass-by-value or pass-by-reference
+2. Pass-by-value of primitives values
+3. Pass-by-value of reference values
+
+### JavaScript Recursive Function
+1. Introduction to the JavaScript recursive functions
+2. JavaScript recursive function examples
+3. A simple JavaScript recursive function example
+4. Calculate the sum of n natural numbers example
+
+### JavaScript Default Parameters
+1. Arguments vs. Parameters
+2. Setting JavaScript default parameters for a function
+3. More JavaScript default parameter examples
+4. Passing undefined arguments
+5. Evaluating default parameters
+6. Using other parameters in default values
+7. Using functions
+8. The arguments object
+   
