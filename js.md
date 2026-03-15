@@ -215,3 +215,79 @@ JavaScript has the primitive data types:
 7. Using functions
 8. The arguments object
    
+# Section 6. Objects & Prototypes
+-------------------------------
+### Javascript Object Methods
+1. Introduction to the JavaScript object methods
+2. Object method shorthand
+3. The this value
+
+### JavaScript Constructor Function
+1. Introduction to JavaScript constructor functions
+2. Adding methods to JavaScript constructor functions
+3. Returning from constructor functions
+4. Calling a constructor function without the new keyword
+
+### JavaScript Prototype
+1. Introduction to JavaScript prototype
+2. JavaScript prototype illustration
+3. Defining methods in the JavaScript prototype object
+4. Defining methods in an individual object
+5. Getting prototype linkage
+6. Shadowing
+
+### JavaScript Constructor/Prototype Pattern
+1. Introduction to the JavaScript Constructor / Prototype pattern
+2. JavaScript Constructor / Prototype example
+3. Classes in ES6
+
+### JavaScript Prototypal Inheritance
+1. Introduction to JavaScript prototypal inheritance
+2. JavaScript prototypal inheritance and __proto__
+3. A standard way to implement prototypal inheritance in ES5
+
+### Demystifying the JavaScript this Keyword
+1. What is this keyword
+2. Global context
+3. Function context(1) Simple function calls,2) Method calls, 3) Constructor calls, 4) Indirect calls)
+4. Arrow functions: A special case
+
+### JavaScript globalThis
+1. Introduction to the JavaScript globalThis object
+
+### JavaScript Object Properties
+1. Object Property types(1) Data properties, 2) Accessor properties)
+2. Define multiple properties: Object.defineProperties()
+3. JavaScript object property descriptor
+
+### JavaScript for…in Loop
+1. Introduction to JavaScript for…in loop
+2. The for...in loop & Inheritance
+3. The for…in loop and Array
+
+### A Basic Guide to Enumerable Properties of an Object in JavaScript
+1. Introduction to JavaScript enumerable properties
+
+### Understanding Own Properties of an Object in JavaScript
+
+### JavaScript Factory Functions
+1. Introduction to the factory functions in JavaScript
+2. The Object.create() method
+
+### JavaScript Object Destructuring
+1. Introduction to the JavaScript object destructuring assignment
+2. Setting default values
+3. Destructuring a null object
+4. Nested object destructuring
+5. Destructuring function arguments
+
+### JavaScript Optional Chaining Operator
+1. Introduction to the JavaScript optional chaining operator
+2. Stacking the optional chaining operator
+3. Combining with the nullish coalescing operator
+4. Using optional chaining operator with function calls
+
+### Object Literal Syntax Extensions in ES6
+1. Object property initializer shorthand
+2. Computed property name
+3. Concise method syntax
