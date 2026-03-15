@@ -291,3 +291,53 @@ JavaScript has the primitive data types:
 1. Object property initializer shorthand
 2. Computed property name
 3. Concise method syntax
+
+# Section 7. Classes
+-------------------------------------
+### JavaScript Class
+1. Classes before ES6 revisited
+2. ES6 class declaration
+3. Class vs. Custom type
+
+### JavaScript Getters and Setters
+1. Introduction to the JavaScript getters and setters
+2. Using getter in an object literal
+
+### JavaScript Class Expressions
+1. Introduction to JavaScript class expressions
+2. First-class citizen
+3. Singleton
+
+### JavaScript Computed Properties
+1. Introduction to JavaScript Computed Properties
+2. JavaScript Computed Property examples(1) Basic JavaScript computed property example, 2) Using a computed property in a class, 3) Creating an object from a key/value pair)
+
+### JavaScript Inheritance Using extends & super
+1. Implementing JavaScript inheritance using extends and super
+2. Shadowing methods
+3. Inheriting static members
+4. Inheriting from built-in types
+
+### Introduction to JavaScript new.target Metaproperty
+1. Introduction to JavaScript new.target
+2. JavaScript new.target in functions
+3. JavaScript new.target in constructors
+
+### JavaScript Static Methods
+1. Introduction to the JavaScript static methods
+2. JavaScript static methods in ES6
+3. Calling a static method from the class constructor or an instance method
+
+### JavaScript Static Properties
+1. Introduction to the JavaScript static properties
+
+### JavaScript Private Fields
+1. Introduction to the JavaScript private fields
+2. Using getter and setter to access private fields
+3. Private fields and subclasses
+4. The in operator: check private fields exist
+5. Static private fields
+
+### JavaScript Private Methods
+1. Introduction to JavaScript private methods
+2. JavaScript private method examples(1) Private instance method example, 2) Private static method example)
