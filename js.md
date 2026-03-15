@@ -341,3 +341,76 @@ JavaScript has the primitive data types:
 ### JavaScript Private Methods
 1. Introduction to JavaScript private methods
 2. JavaScript private method examples(1) Private instance method example, 2) Private static method example)
+
+# Section 8. Advanced Functions
+-------------------------------------
+### JavaScript Function Type
+1. Introduction to the JavaScript Function type
+2. Functions properties
+3. new.target
+4. Function methods: apply, call, and bind
+5. The apply() and call() methods
+6. The bind() method
+
+### JavaScript call() Method
+1. Introduction to the JavaScript call() method
+2. Using the JavaScript call() method to chain constructors for an object
+3. Using the JavaScript call() method for function borrowing
+
+### JavaScript apply() method
+1. Introduction to the JavaScript apply() method
+2. JavaScript apply() method examples( 1) Simple JavaScript apply() method example, 2) Function borrowing, 3) Using the apply() method to append an array to another)
+
+### JavaScript bind() Method
+1. Introduction to JavaScript bind() method
+2. Using JavaScript bind() for function binding
+3. Using bind() to borrow methods from a different object
+
+### JavaScript Closures
+1. Introduction to JavaScript closures
+2. Lexical scoping
+3. JavaScript closures
+4. More JavaScript Closure examples (JavaScript closures in a loop, 1) Using the IIFE solution, 2) Using let keyword in ES6)
+
+### JavaScript Immediately Invoked Function Expression
+1. Why IIFEs
+2. Named IIFE
+3. IIFE starting with a semicolon (;)
+4. IIFE in actions
+5. jQuery & IIFE
+
+### Returning Multiple Values from a Function
+1. Returning multiple values from a function using an array
+2. Returning multiple values from a function using an object
+
+### JavaScript Arrow Functions
+1. Introduction to JavaScript arrow functions
+2. JavaScript arrow functions with multiple parameters
+3. JavaScript arrow functions with a single parameter
+4. JavaScript arrow functions with no parameter
+5. Line break between parameter definition and arrow
+6. Statements & expressions in the arrow function body
+7. JavaScript arrow functions and object literals
+8. Arrow function vs. regular function
+9. JavaScript arrow functions and this value
+10. JavaScript arrow functions and the arguments object
+11. JavaScript arrow functions and the prototype property
+
+### When You Should Not Use Arrow Functions
+1. Event handlers
+2. Object methods
+3. Prototype methods
+4. Functions that use the arguments object
+
+### JavaScript Rest Parameters
+1. Introduction to JavaScript rest parameters
+2. More JavaScript rest parameters examples( JavaScript rest parameters and arrow function, JavaScript rest parameter in a dynamic function)
+
+### JavaScript Callbacks
+1. What are callbacks
+2. Synchronous callbacks
+3. Asynchronous callbacks
+4. Handling errors
+5. Nesting callbacks and the Pyramid of Doom
+
+      
