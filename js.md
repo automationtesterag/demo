@@ -500,3 +500,28 @@ JavaScript has the primitive data types:
 ### JavaScript Async Generators
 1. What is an async generator
 2. Introduction to the JavaScript async generators
+
+# Section 11. Modules
+-------------------------------------
+### ES6 Modules
+1. Introduction to ES6 modules
+2. ES6 modules example
+
+### Export
+1. Introduction to JavaScript export keyword
+2. Named exports (Exporting variables, Exporting functions, Exporting classes, Default exports, Renaming named exports,Re-exporting)
+
+### JavaScript Import
+1. Introduction to JavaScript import keyword
+2. Import a default export
+3. Import named exports
+4. Namespace import
+5. Renaming a named export
+
+### JavaScript Top-level await
+1. Introduction to the JavaScript top-level await
+2. Workaround
+3. Using the top-level await
+4. JavaScript top-level await use cases
+5. Dynamic dependency pathing
+6. Dependency fallback
