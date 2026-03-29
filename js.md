@@ -413,4 +413,56 @@ JavaScript has the primitive data types:
 4. Handling errors
 5. Nesting callbacks and the Pyramid of Doom
 
-      
+
+# Section 9. Promises & Async/Await
+-------------------------------------
+### JavaScript Promises
+1. Why JavaScript promises
+2. Using callbacks to deal with an asynchronous operation
+3. Understanding JavaScript Promises
+4. Creating a promise
+5. Consuming a Promise: then, catch, finally (1) The then() method, 2) The catch() method, 3) The finally() method)
+6. A practical JavaScript Promise example
+
+### Promise Chaining
+1. Introduction to the JavaScript promise chaining
+2. Multiple handlers for a promise
+3. Returning a Promise
+4. Promise chaining syntax
+
+### JavaScript Promise.all()
+1. Introduction to the JavaScript Promise.all() method
+2. JavaScript Promise.all() method examples (1) Resolved promises example, 2) Rejected promises example,)
+
+### JavaScript Promise.race()
+1. Introduction to JavaScript Promise.race() static method
+2. JavaScript Promise.race() examples (1) Simple JavaScript Promise.race() examples, 2) Practical JavaScript Promise.race() example)
+
+### JavaScript Promise.any()
+1. Introduction to JavaScript Promise.any() method
+2. JavaScript Promise.any() examples( 1) All promises fulfilled example, 2) One promise rejected example, 3) All promises rejected example)
+3. When to use the JavaScript Promise.any() method
+
+### JavaScript Promise.allSettled()
+1. Introduction to the Promise.allSettled() method
+2. JavaScript Promise.allSettled() example
+
+### JavaScript Promise finally()
+1. Introduction to the JavaScript Promise finally() method
+2. The JavaScript Promise finally() method examples (1) Using the finally() method to clean up resources, 2) Using the Promsie finally() method show a loading status)
+
+### Promise Error Handling
+1. Normal error
+2. Errors inside the Promises
+3. Calling reject() function
+4. Missing the catch() method
+
+### JavaScript async/await
+1. Introduction to JavaScript async / await keywords
+2. The async keyword
+3. The await keyword
+4. Error handling
+
+### JavaScript Promise.withResolvers
+1. Introduction to the JavaScript Promise.withResolvers method
+2. JavaScript Promise.withResolvers method example
