@@ -466,3 +466,37 @@ JavaScript has the primitive data types:
 ### JavaScript Promise.withResolvers
 1. Introduction to the JavaScript Promise.withResolvers method
 2. JavaScript Promise.withResolvers method example
+
+# Section 10. Iterators & Generators
+-------------------------------
+### Iterators
+1. The Essential Guide to JavaScript Iterators
+2. The for loop issues
+3. Iteration protocols
+4. Iterator protocol
+5. Iterable protocol
+6. Iterators
+7. Cleaning up
+
+### JavaScript Generators
+1. Introduction to JavaScript Generators
+2. More JavaScript generator examples
+3. Using generators to implement iterators
+4. Using a generator to implement the Bag data structure
+
+### JavaScript yield
+1. Introduction to the JavaScript yield keyword
+2. JavaScript yield examples( A) Returning a value, B) Returning undefined, C) Passing a value to the next() method, D) Using yield in an array, E) Using yield to return an array, F) Using the yield to return individual elements of an array)
+
+### JavaScript for…of Loop
+1. Introduction to the JavaScript for…of loop
+2. JavaScript for of loop examples( 1) Iterating over arrays, 2) In-place object destructuring with for…of, 3) Iterating over strings, 3) Iterating over Map objects, 4) Iterating over set objects)
+3. for...of vs. for...in
+
+### JavaScript Asynchronous Iterators
+1. Introduction to JavaScript Asynchronous Iterators
+2. The for await...of statement
+
+### JavaScript Async Generators
+1. What is an async generator
+2. Introduction to the JavaScript async generators
