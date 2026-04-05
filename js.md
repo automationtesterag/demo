@@ -525,3 +525,50 @@ JavaScript has the primitive data types:
 4. JavaScript top-level await use cases
 5. Dynamic dependency pathing
 6. Dependency fallback
+
+# Section 12. Symbol
+-------------------------------------
+### Symbol
+1. Creating symbols
+2. Sharing symbols
+3. Symbol usages (A) Using symbols as unique values, B) Using a symbol as the computed property name of an object)
+4. Well-known symbols
+5. Symbol.hasInstance
+6. Symbol.iterator
+7. Symbol.isConcatSpreadable
+8. Symbol.toPrimitive
+
+# Section 13. Collections
+-------------------------------------
+### JavaScript Map Object
+1. Introduction to JavaScript Map object
+2. Useful JavaScript Map methods
+3. JavaScript Map examples (Create a new Map object, Add elements to a Map, Initialize a map with an iterable object, Get an element from a map by key, Check the existence of an element by key, Get the number of elements in the map, Iterate over map keys, Iterate over map values, Iterate over map elements, Convert map keys or values to an array, Delete an element by key, Delete all elements in the map)
+4. WeakMap
+
+### Introduction to the JavaScript Set object
+1. Introduction to the JavaScript Set object
+2. Useful Set methods
+3. JavaScript Set examples(Create a new Set from an Array, Get the size of a Set, Add elements to a Set, Check if a value is in the Set, Remove elements from a set, Looping the elements of a JavaScript Set)
+4. Invoke a callback function on each element of a set
+5. WeakSets
+
+# Section 14. Error handling
+-------------------------------------
+### JavaScript try…catch
+1. Introduction to JavaScript try…catch statement
+2. JavaScript try…catch statement examples
+3. Ignoring the catch block
+4. The exception identifier
+
+### JavaScript try…catch…finally
+1. Introduction to the JavaScript try…catch…finally statement
+2. JavaScript try…catch…finally statement example
+3. try…catch…finally and return
+
+### JavaScript Throw Exception
+1. Introduction to the JavaScript throw statement
+2. JavaScript throw exception examples(1) Using the JavaScript throw statement to throw an exception, 2) Using JavaScript throw statement to throw an instance of the Error class, 3) Using JavaScript throw statement to throw a user-defined exception)
+
+### Optional catch Binding
+1. Introduction to the optional catch binding
