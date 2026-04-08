@@ -572,3 +572,122 @@ JavaScript has the primitive data types:
 
 ### Optional catch Binding
 1. Introduction to the optional catch binding
+
+# Section 15. JavaScript var, let, and const
+---------------------------------------------
+### JavaScript let: Declaring Block-Scoped Variables
+1. Introduction to the JavaScript let keyword
+2. JavaScript let and global object
+3. JavaScript let and callback function in a for loop
+4. Redeclaration
+5. JavaScript let variables and hoisting
+6. Temporal death zone (TDZ)
+
+### Differences Between var and let
+1. Variable scopes
+2. Creating global properties
+3. Redeclaration
+4. The Temporal dead zone
+
+### JavaScript const: Declaring Constants in ES6
+1. Introduction to the JavaScript const keyword
+2. JavaScript const and Objects
+3. JavaScript const and Arrays
+4. JavaScript const in a for loop
+
+# Section 16. Proxy & Reflection
+---------------------------------------------
+### proxy
+1. What is a JavaScript Proxy object
+2. Creating a proxy object
+3. A simple proxy example
+4. Proxy Traps
+5. The get() trap
+6. The set() trap
+7. The apply() trap
+8. More traps
+
+### JavaScript Reflection
+1. What is reflection
+2. Reflect API
+3. Creating objects: Reflect.construct()
+4. Calling a function: Reflect.apply()
+5. Defining a property: Reflect.defineProperty()
+
+# Section 17. JavaScript Runtime
+---------------------------------------------
+### JavaScript Execution Context
+1. Introduction to the JavaScript execution context
+2. The creation phase
+3. The execution phase
+
+### JavaScript Call Stack
+1. Introduction to JavaScript Call Stack
+2. JavaScript call stack example
+3. Stack Overflow
+4. Asynchronous JavaScript
+
+### JavaScript Event Loop
+1. JavaScript single-threaded model
+2. Callbacks to the rescue
+
+### JavaScript Hoisting
+1. Introduction to the JavaScript hoisting
+2. Variable hoisting
+3. Function hoisting
+4. Function expressions
+5. Arrow functions
+
+### JavaScript Variable Scopes
+1. What is variable scope
+2. The global scope
+3. Local scope
+4. Scope chain
+5. Global variable leaks: the weird part of JavaScript
+6. Block scope
+
+# Section 18. Primitive Wrapper Types
+---------------------------------------------
+### JavaScript Primitive Wrapper Types
+1. Introduction to primitive wrapper types
+2. Primitive wrapper types vs. reference types
+
+### JavaScript boolean type
+1. Introduction to the JavaScript boolean type
+
+### JavaScript Number Type
+1. Introduction to JavaScript Number type
+2. Formatting numbers
+3. JavaScript Number object vs. primitive number
+
+### JavaScript BigInt
+1. Introduction to the JavaScript BigInt
+2. Type,Operators,Comparisons,Conditionals,
+
+### JavaScript String Type
+1. Introduction to JavaScript String type
+2. String manipulation (Concatenating strings, Extracting substrings, Locating substrings, Removing whitespace characters, Changing cases, Comparing strings, Matching patterns, Replacing substrings)
+
+### JavaScript Regular Expression
+1. Introduction to regular expressions in JavaScript
+2. Creating a regular expression
+3. Testing for matching
+4. Using pattern flags
+5. Searching strings
+6. Replacing strings
+
+# Section 19. Advanced Operators
+---------------------------------------------
+### JavaScript Logical Assignment Operators
+1. The Logical OR assignment operator
+2. The Logical AND assignment operator
+3. The nullish coalescing assignment operator
+
+### JavaScript Nullish Coalescing Operator
+1. Introduction to the JavaScript nullish coalescing operator
+2. Why nullish coalescing operator
+3. The nullish coalescing operator is short-circuited
+4. Chaining with the AND or OR operator
+
+### JavaScript Exponentiation Operator
+1. Introduction to the JavaScript exponentiation operator
